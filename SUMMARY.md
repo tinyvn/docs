@@ -33,6 +33,7 @@
 * [Lỗi %core máy nhà](cac-loi-thuong-gap/loi-core-may-nha.md)
 * [Lỗi bị mất mạng khi bật Tiny](cac-loi-thuong-gap/loi-bi-mat-mang-khi-bat-tiny.md)
 * [Lỗi Failed khi kết nối server](cac-loi-thuong-gap/loi-failed-khi-ket-noi-server.md)
+* [Lỗi Core cho Window7/Window 8](cac-loi-thuong-gap/loi-core-cho-window7-window-8.md)
 
 ***
 
