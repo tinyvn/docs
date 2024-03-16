@@ -10,5 +10,7 @@
 
 #### Bước 3 : Trong mục mới mở ra, bạn đổi tên file "wintun.dll" thành "wintun2.dll"
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 

@@ -2,13 +2,13 @@
 
 ## Trường hợp 1 : Máy bạn có card mạng Incoming Conection
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Thì bạn cần phải xoá Card mạng này đi, bằng cách :
 
 Đầu tiên bạn vào Control Panel, chọn View network status and task
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau đó Bạn chọn mục Change adapter settings
 
