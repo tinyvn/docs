@@ -4,9 +4,13 @@ Trước tiên bạn phải kiểm tra xem máy đã cài đặt đẩy đủ dr
 
 Nếu đã update đầy đủ driver mà vẫn bị lỗi thì bạn có thể tham khảo các cách bên dưới
 
-## Trường hợp máy của bạn sử dụng card mạng Killer
 
-### Cách khắc phục lỗi %core nếu máy bạn sử dụng card mạng Killer
+
+## Trường hợp bạn vừa mới nạp tiền vào tài khoản Tiny
+
+Khi bạn mới nạp tiền vào tài khoản thì bên ứng dụng và hệ thống sẽ cần 1 chút thời gian để đồng bộ, nếu bạn mới gia hạn và bị lỗi này thì bạn chỉ cần chờ khoản 30 giây rồi kết nối lại là đươc.
+
+## Trường hợp máy của bạn sử dụng card mạng Killer
 
 #### Bước 1 : Kiểm tra xem máy bạn có sử dụng card mạng Killer không&#x20;
 
@@ -18,7 +22,7 @@ Các bạn nhấn Windows, sau đó gõ "device manager" rồi nhấn Enter, tro
 
 <figure><img src="../.gitbook/assets/322181062_551899136828438_4916381236500681781_n.jpg" alt=""><figcaption></figcaption></figure>
 
-### Trường hợp máy bạn không sử dụng card mạng Killer
+## Trường hợp máy bạn không sử dụng card mạng Killer
 
 #### Cách 1: Tắt ipv6&#x20;
 
