@@ -2,7 +2,7 @@
 
 Để có một tài khoản tiny booster bạn vui lòng truy cập vào[ ](https://app.tiny.vn/register)[https://app.tiny.vn/register](https://app.tiny.vn/register) để tạo tài khoản .
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Bạn chỉ cân điền đầy đủ thông tin mà Tiny yêu cầu sau đó chọn đăng ký.&#x20;
 
