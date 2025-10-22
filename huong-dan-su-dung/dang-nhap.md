@@ -1,46 +1,12 @@
 # Đăng nhập
 
-#### Cách 1 - Đăng nhập qua ứng dụng
+1. Nhấn đúp chuột vào biểu tượng Tiny hoặc nhấn chuột phải vào biểu tượng Tiny rồi chọn "Run as administrator"/"Chạy với quyền quản trị" -> chọn YES/CÓ
 
-Bước 1 :Bật ứng dụng tiny với quyền admin (quyền quản trị) để ứng dụng có thể chạy trên thiết bị.
+![](https://kf9zf8ltvxj.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NjllNDExMzYwYjcwYWJiMjEzMTI5MjdkYjU0MjhmODNfOUNlTHRVWnFwN3gzZElwcDVYQThOc2FVa2xNQ244NWZfVG9rZW46WndMTWJmQmNHb25VOEl4clpSa2x5czlVZ0pmXzE3NjExMDY0MzI6MTc2MTExMDAzMl9WNA)
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-13 161856.png" alt=""><figcaption></figcaption></figure>
+2. Nhập thông tin tài khoản, mật khẩu của bạn vào rồi chọn "Đăng nhập"/"Sign in"
 
-Bước 2 :Đăng nhập bằng Tài khoản và Mật khẩu đã được tạo ở website [https://app.tiny.vn/register](https://app.tiny.vn/register) hoặc đã được fanpage [https://www.facebook.com/giampingchoigame](https://www.facebook.com/giampingchoigame) cung cấp để đăng nhập và ứng dụng Tiny.
-
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
-
-Bước 3: Nhấn vào mục "Select Server" để chọn server phù hợp với game mình đang chơi (bạn có thể thảm khảo tại mục "[Chọn Server cho game"](games/)), sau đó bạn chỉ cần nhấn "Connect" để kết nối với Server.
-
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
-
-Khi kết nối thành công hệ thống sẽ hiển thị thông báo đã kết nối thành công đến server đã chọn&#x20;
-
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
-
-Khi kết nối thất bại thì sẽ hiện thông báo error hoặc là Fail.![](<../.gitbook/assets/image (52).png>)
-
-![](<../.gitbook/assets/image (63).png>)
-
-
-
-#### Cách 2 - Đăng nhập qua website
-
-Bước 1:Để có thể đăng nhập vào website bạn khởi động ứng dụng với quyền admin như bước một.
-
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-Bước 2: Sử dụng trình duyệt truy cập vào[ ](https://tiny.vn/v1/login.html)[https://tiny.vn/v1/login.html](https://tiny.vn/v1/login.html)&#x20;
-
-Tại đây, bạn vui lòng nhập Tài khoản và mật khẩu, chọn server phù hợp với game mình đang chơi sau đó chọn "Sign In"
-
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
-
-Nếu kết nối thành công, hệ thông sẽ hiễn thị như hình
-
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-Khi kết nối thất bại thì sẽ hiện thông báo error hoặc là Fail.
+![](https://kf9zf8ltvxj.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YjVlNDBlZDM5YzNjYjVmMWFjNjM0ZTBkNzUyZTExNWVfNW5hMGN2WExFTDVEYUdzVEVoaFU0Q1l3MW5XcW5RS0JfVG9rZW46SkdIRmJjWkZtb0haV1Z4NmhWaWxwMFBxZ3JnXzE3NjExMDY0MzI6MTc2MTExMDAzMl9WNA)
 
 Nếu gặp vấn đề gì trong quá trình đăng nhập bạn vui lòng kiếm tra : [Các lỗi thường gặp](broken-reference).
 

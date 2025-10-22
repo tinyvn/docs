@@ -1,21 +1,22 @@
 # Gia hạn
 
-Để gia hạn tài khoản bạn vui lòng truy cập vào website [https://app.tiny.vn/service](https://app.tiny.vn/service)
+Để gia hạn tài khoản bạn vui lòng truy cập vào mục "Gói dịch vụ/Services" trên ứng dụng hoặ tại website [https://app.tiny.vn/service](https://app.tiny.vn/service)
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-Sẽ có 3 gói cơ bản cho bạn sử dụng với tối thiểu là 1 tháng và tối đa là 6 tháng.Sau khi chọn lựa gói mà bạn mong muốn thì bạn click vào "PAY NOW" rồi chọn hình thức thanh toán phù hợp
+Ở đây, bạn sẽ thấy bảng giá dịch vụ của Tiny, sau đó bạn chỉ cần chọn để tiến hành thanh toán\
 
-Hình thức thanh toán bao gồm 3 hình thức thanh toán bao gồm Paypal, Bank Transfer và Subcription
 
-\-Bank Transfer
+<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+Sau khi đẫ chọn thành công, hệ thống sẽ&#x20;
 
-Bạn gửi qua đúng tên ngân hàng và số tài khoản và lưu ý nội dung nhập đúng nội dung chuyển khoản để gia hạn tài khoản
+cung cấp cho bạn 1 mã QR, bạn chỉ cần quét mã QR sau đó tiến hành thanh toán.
 
-\-Paypal và Subcription
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](<../.gitbook/assets/image (83).png>)
+Sau khi thanh toán thành công, bạn có thể vào mục "Cài đặt", sau đó chọn "Làm mới" để kiểm tra xem tài khoản đã được gia hạn tự động hay chưa.\
+![](<../.gitbook/assets/image (128).png>)
 
-Đối với thanh toán bằng Paypal và Subcription, bạn chỉ cần thanh toán như bình thường.
+Nếu chưa, bạn vui lòng liên hệ với CSKH của Tiny tại fanpage Tiny để được hổ trợ kiểm tra trong thời gian sớm nhất.\
+Link fanpage Tiny : [Tiny.vn](http://fb.com/giampingchoigame)

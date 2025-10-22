@@ -2,13 +2,13 @@
 
 ## Trường hợp 1 : Máy bạn có card mạng Incoming Conection
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Thì bạn cần phải xoá Card mạng này đi, bằng cách :
 
 Đầu tiên bạn vào Control Panel, chọn View network status and task
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau đó Bạn chọn mục Change adapter settings
 
@@ -24,7 +24,7 @@ Bạn phải kiểm tra xem mình có đang kết nối cùng lúc với WI-FI v
 
 Nếu đã thử 2 cách trên mà vẫn bị mất mạng khi bật ứng dụng Tiny, bạn có thể thử tắt IPv6
 
-&#x20;Cách tắt IPv6 bạn có thể tham khảo tại[ ĐÂY](loi-core-may-nha.md#cach-1-tat-ipv6)
+&#x20;Cách tắt IPv6 bạn có thể tham khảo tại[ ĐÂY](loi-s-failer-to-start-the-core.md#cach-1-tat-ipv6)
 
 
 

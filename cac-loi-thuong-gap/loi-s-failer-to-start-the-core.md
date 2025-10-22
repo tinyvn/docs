@@ -1,4 +1,4 @@
-# Lỗi %core máy nhà
+# Lỗi %S, failer to start the core
 
 Trước tiên bạn phải kiểm tra xem máy đã cài đặt đẩy đủ driver chưa, cách kiểm tra và cài đặt driver đã có ở mục[ Lỗi khi bật ứng dụng Tiny](loi-khi-bat-ung-dung-tiny.md).
 
@@ -14,7 +14,7 @@ Khi bạn mới nạp tiền vào tài khoản thì bên ứng dụng và hệ t
 
 #### Bước 1 : Kiểm tra xem máy bạn có sử dụng card mạng Killer không&#x20;
 
-Các bạn nhấn Windows, sau đó gõ "device manager" rồi nhấn Enter, trong cửa sổ mới mở ra các bạn chọn mục "network adapter", trong mục này nếu các bạn thấy có dòng Killer tương tự như hình thì tức là máy bạn đang sử dụng card mạng Killer, còn nếu không thì các bạn có thể bỏ qua cách này và tham khảo [các cách bên dưới ](loi-core-may-nha.md#truong-hop-may-ban-khong-su-dung-card-mang-killer)
+Các bạn nhấn Windows, sau đó gõ "device manager" rồi nhấn Enter, trong cửa sổ mới mở ra các bạn chọn mục "network adapter", trong mục này nếu các bạn thấy có dòng Killer tương tự như hình thì tức là máy bạn đang sử dụng card mạng Killer, còn nếu không thì các bạn có thể bỏ qua cách này và tham khảo [các cách bên dưới ](loi-s-failer-to-start-the-core.md#truong-hop-may-ban-khong-su-dung-card-mang-killer)
 
 <figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 

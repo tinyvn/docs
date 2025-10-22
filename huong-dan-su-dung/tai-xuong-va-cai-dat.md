@@ -6,5 +6,5 @@
 
 ### Cài đặt
 
-Để xem hướng dẫn cài đặt, bạn vui lòng truy cập : [https://www.youtube.com/watch?v=UUZ\_ljiYAEQ](https://www.youtube.com/watch?v=UUZ\_ljiYAEQ)
+Để cài đặt ứng dụng, nhật đúp chuột vào file cài đặt Tiny&#x20;
 
