@@ -4,6 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Bạn chỉ cân điền đầy đủ thông tin mà Tiny yêu cầu sau đó chọn đăng ký.&#x20;
+Bạn chỉ cân điền đầy đủ thông tin mà Tiny yêu cầu sau đó chọn đăng ký. \
+Lưu ý : Bạn cần nhập Email hợp lệ, không sử dụng ký tự đặc biệt tại mục "Tài khoản" và "Mật khẩu"
 
 Khi đăng ký thành công bạn có thể truy cập vào Email đăng ký Tiny của mình, tìm Email từ Tiny để xác minh tài khoản và nhận 7 ngày dùng thử.
