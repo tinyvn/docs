@@ -9,9 +9,9 @@
 
 <figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-Sau khi đẫ chọn thành công, hệ thống sẽ&#x20;
+Sau khi đẫ chọn thành công, hệ thống sẽ cung cấp cho bạn 1 mã QR, bạn chỉ cần quét mã QR sau đó tiến hành thanh toán.
 
-cung cấp cho bạn 1 mã QR, bạn chỉ cần quét mã QR sau đó tiến hành thanh toán.
+<mark style="color:red;">Lưu ý : Các bạn cần kiểm tra lại xem phần nội dung giao dịch đã khớp với phần "Nội dung" ở phía dưới mã QR hay chưa. Nếu chưa, các bạn cần sửa lại cho khớp để hệ thống có thể nhận diện và gia hạn tự động cho bạn.</mark>
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
