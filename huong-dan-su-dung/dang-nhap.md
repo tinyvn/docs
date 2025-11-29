@@ -12,5 +12,5 @@ Có 1 vài trường hợp, khi bạn mở ứng dụng, Window sẽ hiện lên
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-Nếu gặp vấn đề gì trong quá trình đăng nhập bạn vui lòng kiếm tra : [Các lỗi thường gặp](broken-reference).
+Nếu gặp vấn đề gì trong quá trình đăng nhập bạn vui lòng kiếm tra : [Các lỗi thường gặp](/broken/pages/FeaX1w8QilKbebN6irUy).
 
