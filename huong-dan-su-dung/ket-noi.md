@@ -2,13 +2,13 @@
 
 1.  Kiểm tra mục "Chọn game" hoặc "tìm kiếm" xem game bạn chơi có ở đó không. Nếu có, chọn kết nối.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 2.  Nếu game bạn chơi không có trong mục chọn game. Vào mục "Chọn server" -> Tìm và chọn server phù hợp với game bạn chơi -> kết nối
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Khi bạn kết nối đến 1 server bất kỳ, nếu có dòng chữ "Đã kết nối -"Tên server"" Thì tức là bạn đã kết nối thành công với server của Tiny. Khi này, bạn có thể mở game và chơi như bình thường.
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Làm sao để biết server nào là server phù hợp với game mà bạn chơi.
 
