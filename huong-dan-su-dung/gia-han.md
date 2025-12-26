@@ -1,5 +1,7 @@
 # Gia hạn
 
+## Đối với các khách hàng trong nước.
+
 Để gia hạn tài khoản bạn vui lòng truy cập vào mục "Gói dịch vụ/Services" trên ứng dụng hoặ tại website [https://app.tiny.vn/service](https://app.tiny.vn/service)
 
 <figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
@@ -15,16 +17,36 @@ Nên Trước khi thanh toán,bạn sẽ phải điền các thông tin sau ( ch
 
 Sau khi đẫ chọn thành công, bạn nhấn vào mục "Tiến hành thanh toán".&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Khi này, hệ thống sẽ cung cấp cho bạn 1 mã QR, bạn chỉ cần quét mã QR sau đó tiến hành thanh toán.
 
 <mark style="color:red;">Lưu ý : Các bạn cần kiểm tra lại xem phần nội dung giao dịch đã khớp với phần "Nội dung" ở phía dưới mã QR hay chưa. Nếu chưa, các bạn cần sửa lại cho khớp để hệ thống có thể nhận diện và gia hạn tự động cho bạn.</mark><br>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau khi thanh toán thành công, bạn có thể vào mục "Cài đặt", sau đó chọn "Làm mới" để kiểm tra xem tài khoản đã được gia hạn tự động hay chưa.\
 ![](<../.gitbook/assets/image (128).png>)
 
 Nếu chưa, bạn vui lòng liên hệ với CSKH của Tiny tại fanpage Tiny để được hổ trợ kiểm tra trong thời gian sớm nhất.\
 Link fanpage Tiny : [Tiny.vn](http://fb.com/giampingchoigame)
+
+## Đối với các khách hàng ở nước ngoài.
+
+**Theo quy định về thuế của nhà nước, các khách hàng ở nước ngoài nếu có nhu cầu thanh toán dịch vụ Tiny thì cần phải thanh toán qua cổng Paypal.**
+
+
+
+Để tiến hành gia hạn qua Paypal. Các bạn cũng nhấn vào mục "Gói dịch vụ" hoặc "Services" rồi chọn gói dịch vụ phù hợp <br>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Nếu bạn đã có sẵn tài khoản Paypal, bạn chỉ cần chọn vào mục Paypal, rồi nhập thông tin tài khoản để tiến hành thanh toán.\
+Nếu bạn chưa có tài khoản Paypal, bạn có thể chọn mục "Thẻ ghi nợ hoặc tín dụng" để tiến hành đăng ký tài khoản Paypal.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+_<mark style="color:red;">Lưu ý : khi thanh toán bằng hình thức này, thì tài khoản của bạn sẽ mặc định sử dụng gói đăng ký của Tiny, và tài khoản của bạn sẽ được tự động gia hạn theo đúng gói mà bạn chọn (ví dụ bạn đăng ký gói 1 tháng, thì sau 1 tháng, tài khoản của bạn sẽ tự động gia hạn gói 1 tháng). Và bạn có thể huỷ gói đăng ký bất cứ lúc nào bằng cách liên hệ với CSKH của Tiny.</mark>_\
+Link fanpage Tiny : [tiny.vn](http://fb.com/giampingchoigame)
