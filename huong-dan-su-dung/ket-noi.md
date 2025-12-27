@@ -21,7 +21,8 @@ Thì bạn chỉ cần kết nối server Tiny gần với server game mà bạn
 Bạn có thể làm theo các bước sau :
 
 * Bước 1: Mở Game mà bạn đang cần lấy IP
-* Bước 2: Tải phầm mềm CurrPorts Link Download: https://www.nirsoft.net/utils/cports.zip
+* Bước 2: Tải phầm mềm CurrPorts Link Download: [https://www.nirsoft.net/utils/cports.zip](https://www.nirsoft.net/utils/cports.zip)\
+  Link phụ : [https://download.com.vn/currports-10594](https://download.com.vn/currports-10594)
 *   Bước 3: Mở phầm mềm CurrPorts và bạn sẽ thấy IP của game mà bạn đang chơi
 
     Khi đã thấy được IP, bạn có thể kiểm tra bằng cách nhập địa chỉ IP trên vào trang web : http://ip-api.com hoặc gửi trực tiếp IP cho CSKH của Tiny để bên mình hổ trợ tìm server phù hợp giúp bạn.
